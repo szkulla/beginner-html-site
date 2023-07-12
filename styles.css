@@ -1,7 +1,9 @@
 #text {
     color:darkblue;
     background-color:bisque;
-    background-image: url(TETKO.png;)
+    background-image: url(TETKO.png);
+    background-position: center;
+    background-repeat: no-repeat;
 }
 #main {
     color:aqua;
