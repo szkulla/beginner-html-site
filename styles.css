@@ -1,0 +1,15 @@
+#text {
+    color:darkblue;
+    background-color:bisque;
+    background-image: url(TETKO.png;)
+}
+#main {
+    color:aqua;
+    background-color: brown;
+    text-align: center;
+    font-size: 700%;
+    border: 1px solid black;
+}
+#screen {
+    width: 20%;
+}
